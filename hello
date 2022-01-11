@@ -1,1 +1,2 @@
-echo $1
+first_name="Leia"
+echo "${first_name}"
