@@ -1,2 +1,2 @@
 first_name="Leia"
-echo "${first_name}"
+echo "Hi ${first_name}"
